@@ -1,6 +1,6 @@
 # OISL
 
-OISL stands for Optical Inter Satellite Link, I use Python to do the scenario simulation to link simulation.
+OISL stands for Optical Inter Satellite Link, I use Python and Orekit python wrapper to do the scenario simulation to link simulation.
 
 # Reference
 
